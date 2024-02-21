@@ -7,3 +7,10 @@ var verdadFalso = false;
 console.log(verdadFalso);
 var nombre = "Mario";
 console.log(nombre);
+// arrays 
+var numeros = [1, 2, 3, 4, 5];
+var coleccionNombres = ["mario", "alberto"];
+var coleccionNumeros = [1, 2, 3, 4, 5];
+// tuplas
+var tupla = [1, "mario", true];
+console.log("tupla" + tupla[2]);
