@@ -1,0 +1,15 @@
+/* Una clase es una plantilla de un objeto
+metodos, atributos de dicho objeto
+
+Objeto Coche
+Propiedades
+    color
+    marca
+    número de ruedas
+    número de puertas
+Metodos
+    Arrancar
+    Acelerar
+    Frenar
+*/
+
